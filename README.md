@@ -7,7 +7,7 @@
 
 ## Musique
 
- * Théâtre musical
+ * [Théâtre musical](https://github.com/La-Bricole-numerique-Avrille/Theatre-musical)
  * [MX MIDI Guitar](https://github.com/labricolenumerique/MX_MIDI_Guitar)
 
 ## Robotique
