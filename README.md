@@ -1,5 +1,10 @@
 # Projets La Bricole numérique
 
+## Impression 3D
+
+ * Impression filament
+ * Impression résine
+
 ## Electronique
 
  * [Tiny-house](https://github.com/labricolenumerique/tiny-house)
