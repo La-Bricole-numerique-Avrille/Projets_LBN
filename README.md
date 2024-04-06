@@ -12,5 +12,5 @@
 
 ## Robotique
 
- * [Pojets robotique](https://github.com/labricolenumerique/robotique)
+ * [Projets robotique](https://github.com/labricolenumerique/robotique)
 
