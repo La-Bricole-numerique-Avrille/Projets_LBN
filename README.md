@@ -1,2 +1,14 @@
-# Projets_LBN
-Projets La Bricole numérique
+# Projets La Bricole numérique
+
+## Electronique
+
+ * [Tiny-house](https://github.com/labricolenumerique/tiny-house)
+
+
+## Musique
+
+ * [MX MIDI Guitar](https://github.com/labricolenumerique/MX_MIDI_Guitar)
+
+## Robotique
+
+ * [Pojets robotique](https://github.com/labricolenumerique/robotique)
