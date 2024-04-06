@@ -20,4 +20,5 @@
  * [Projets robotique](https://github.com/labricolenumerique/robotique)
 
 ## Machines de découpe
- * Cricut
+ * Découpe Vinyle
+   * Cricut
