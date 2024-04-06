@@ -2,8 +2,8 @@
 
 ## Impression 3D
 
- * Impression filament
- * Impression résine
+ * [Impression filament](https://github.com/La-Bricole-numerique-Avrille/Impression-3D?tab=readme-ov-file#impression-filament)
+ * [Impression résine](https://github.com/La-Bricole-numerique-Avrille/Impression-3D?tab=readme-ov-file#impression-r%C3%A9sine)
 
 ## Electronique
 
