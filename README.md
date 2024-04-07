@@ -25,3 +25,9 @@
 ## Machines de découpe
  * Découpe Vinyle
    * Cricut
+
+## Modélisations 3D
+
+### Modeleur 3D paramétrique
+
+ * [FreeCAD](https://www.freecad.org/index.php?lang=fr)
