@@ -25,7 +25,7 @@
 
 ## Electronique
 
- * [Atmel ATtiny](http://christianpc.fr/comment-programmer-un-attiny-85) L'attiny85 est un microcontroleur à 8 pattes qui se programme avec des commandes types Arduino
+ * [Atmel ATtiny](https://github.com/La-Bricole-numerique-Avrille/ATtiny) L'attiny est un microcontroleur à 8 pattes qui se programme avec des commandes types Arduino
  * [Arduino](https://github.com/La-Bricole-numerique-Avrille/Arduino) est la marque d'une plateforme de prototypage open-source qui permet aux utilisateurs de créer des objets électroniques interactifs à partir de cartes électroniques matériellement libres sur lesquelles se trouve un microcontrôleur
  * [BBC micro:bit](https://github.com/La-Bricole-numerique-Avrille/micro-bit) l'ordinateur de poche transformant l'apprentissage des compétences numériques
  * [Espressif ESP](https://github.com/La-Bricole-numerique-Avrille/ESP) est une série de microcontrôleurs de type système sur une puce (SoC) d'Espressif Systems
