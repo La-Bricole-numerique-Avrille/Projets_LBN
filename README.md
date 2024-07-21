@@ -3,6 +3,7 @@
 ## Electronique
 
  * [Tiny-house](https://github.com/labricolenumerique/tiny-house)
+ * [Affichage panneaux LED type HUB75](https://github.com/labricolenumerique/HUB75_panneaux_LED)
 
 ## Musique
 
